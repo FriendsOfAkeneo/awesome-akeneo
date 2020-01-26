@@ -21,6 +21,8 @@
 # Source code
 
 * [All Github repositories](https://github.com/akeneo)
+  * [Community Standard Edition](https://github.com/akeneo/pim-community-standard)     
+  * [Community Development Edition](https://github.com/akeneo/pim-community-dev)     
 * [Akeneo Labs bundles](https://github.com/akeneo-labs)
 
 ## Articles and blogs from partners and community
@@ -38,8 +40,9 @@ Bundle | Akeneo version
 [Rules engine UI (EE)](https://github.com/basecom/akeneo-rulesUI) | 3.0.*
 [Excel Init Bundle](https://github.com/akeneo/ExcelInitBundle) | ^3.0.0
 [Enrich Bundle (enhancement of CustomEntityBundle)](https://github.com/kiboko-labs/akeneo-enrich-bundle) | 2.*
+[Product Cloner Bundle](https://github.com/flagbit/akeneo-product-cloner)| ^3.0
 
-### Attributes 
+### Custom attributes 
 
 Bundle | Akeneo version
 --- | ---
