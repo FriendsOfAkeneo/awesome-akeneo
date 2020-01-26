@@ -8,9 +8,9 @@
 
 ## Documentation
 
-* [Help center](https://help.akeneo.com/)
-* [Technical documentation](https://docs.akeneo.com/)
-* [API Portal](https://api.akeneo.com/)
+* [Help center](https://help.akeneo.com/) <sub><sup><sup>[(source)](https://github.com/akeneo/pim-helpcenter)</sup></sup></sub>
+* [Technical documentation](https://docs.akeneo.com/) <sub><sup><sup>[(source)](https://github.com/akeneo/pim-docs)</sup></sup></sub>
+* [API Portal](https://api.akeneo.com/) <sub><sup><sup>[(source)](https://github.com/akeneo/pim-api-docs)</sup></sup></sub>
   * [API reference](https://api.akeneo.com/api-reference-index.html)
 
 ### Official blogs
