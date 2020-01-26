@@ -1,4 +1,4 @@
-# ![alt text](image/akeneo-icon.png) Awesome Akeneo
+# ![alt text](image/akeneo-icon-small.png) Awesome Akeneo
 
 ## Main 
 
