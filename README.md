@@ -2,46 +2,62 @@
 
 ## Main 
 
-* [Akeneo](https://www.akeneo.com/)
-* [Help center](https://help.akeneo.com/)
-* [API Portal](https://api.akeneo.com/)
+* [Akeneo web-site](https://www.akeneo.com/)
 * [Marketplace](https://marketplace.akeneo.com/)
+* [Slack channel](http://akeneopim-ug.herokuapp.com/)
+
+## Documentation
+
+* [Help center](https://help.akeneo.com/)
+* [Technical documentation](https://docs.akeneo.com/)
+* [API Portal](https://api.akeneo.com/)
+  * [API reference](https://api.akeneo.com/api-reference-index.html)
+
+### Official blogs
+
 * [Business blog](https://www.akeneo.com/blog/)
 * [Technical blog](https://medium.com/akeneo-labs)
 
+# Source code
 
-All Akeneo Github repositories https://github.com/akeneo
+* [All Github repositories](https://github.com/akeneo)
+* [Akeneo Labs bundles](https://github.com/akeneo-labs)
 
-Akeneo Labs bundles https://github.com/akeneo-labs
+## Articles and blogs from partners and community
 
-## Community
-
-Slack channel http://akeneopim-ug.herokuapp.com/
-
-## Articles and blogs
-
-
-Webkul blog https://webkul.com/blog/tag/akeneo-pim/
-
+* [Webkul blog](https://webkul.com/blog/tag/akeneo-pim/)
+* [Vision IT (German)](https://vision-itc.com/de/tag/akeneo/)
 
 ## Bundles
 
 <bundles>
 
+Bundle | Akeneo version
+--- | ---
+[Events API](https://github.com/trilix-gmbh/akeneo-events-api-bundle) | ^3.0.0
+[Rules engine UI (EE)](https://github.com/basecom/akeneo-rulesUI) | 3.0.*
+[Excel Init Bundle](https://github.com/akeneo/ExcelInitBundle) | ^3.0.0
+[Enrich Bundle (enhancement of CustomEntityBundle)](https://github.com/kiboko-labs/akeneo-enrich-bundle) | 2.*
+
 ### Attributes 
 
 Bundle | Akeneo version
 --- | ---
-[Text collection](https://github.com/akeneo/ExtendedAttributeTypeBundle) | ?
-[Table Attribute](https://github.com/flagbit/akeneo-table-attribute-bundle) | ?
+[Text collection](https://github.com/akeneo/ExtendedAttributeTypeBundle) | ^2.2
+[Table Attribute](https://github.com/flagbit/akeneo-table-attribute-bundle) | ^3.2
 </bundles>
 
-## EE resources
 
-## Partner resources
+## Resources for partners
 
-Partner Portal https://partners.akeneo.com/
+* [Partner Portal](https://partners.akeneo.com/)
+* [Akeneo PIM Summit 2020](https://www.akeneo-aps2020.com/)
 
-## Resources in German
+### Documentation
 
-Vision IT https://vision-itc.com/de/tag/akeneo/
+* [Cloud Edition](https://docs.akeneo.com/master/cloud_edition/)
+
+
+## R&D and proof of concepts
+
+* [Demonstration of the potential use-cases of new Mysql 8.0 functionalities](https://github.com/ahocquard/akeneo-mysql)
