@@ -31,7 +31,7 @@
 * [Webkul blog](https://webkul.com/blog/tag/akeneo-pim/)
 * [Vision IT (German)](https://vision-itc.com/de/tag/akeneo/)
 
-## Bundles
+## Bundles and tools
 
 <bundles>
 
@@ -49,6 +49,12 @@ Bundle | Akeneo version
 --- | ---
 [Text collection](https://github.com/akeneo/ExtendedAttributeTypeBundle) | ^2.2
 [Table Attribute](https://github.com/flagbit/akeneo-table-attribute-bundle) | ^3.2
+
+### Migration tools
+
+* [Akeneo Fixtures Generation Toolbox](https://github.com/kiboko-labs/bisous)
+
+
 </bundles>
 
 
