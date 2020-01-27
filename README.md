@@ -27,6 +27,7 @@
 
 ## Articles and blogs from partners and community
 
+* [Akeneo Cheatsheet](https://github.com/kiboko-labs/akeneo-cheatsheet)
 * [Webkul blog](https://webkul.com/blog/tag/akeneo-pim/)
 * [Vision IT (German)](https://vision-itc.com/de/tag/akeneo/)
 
